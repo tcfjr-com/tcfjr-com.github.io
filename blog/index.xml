@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TCFJR</title>
     <link>https://tcfjr.com/blog/</link>
     <description>Recent content on TCFJR</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate><atom:link href="https://tcfjr.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>https://tcfjr.com/blog/posts/first/</link>
       <pubDate>Fri, 29 Nov 2024 16:04:24 -0600</pubDate>
+      
       <guid>https://tcfjr.com/blog/posts/first/</guid>
-      <description>&lt;p&gt;The ramblings of a relatively untroubled man&lt;/p&gt;&#xA;&lt;p&gt;Hello&lt;/p&gt;</description>
+      <description>&lt;p&gt;The ramblings of a relatively untroubled man&lt;/p&gt;
+&lt;p&gt;Hello&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The ramblings of a relatively untroubled man</p>
+<p>Hello</p>
+]]></content:encoded>
     </item>
+    
   </channel>
 </rss>
