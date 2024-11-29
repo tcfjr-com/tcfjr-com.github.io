@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TCFJR</title>
-    <link>https://tcfjr.com/blog/</link>
-    <description>Recent content on TCFJR</description>
+    <title>Monday Quotes on TCFJR</title>
+    <link>https://tcfjr.com/blog/tags/monday-quotes/</link>
+    <description>Recent content in Monday Quotes on TCFJR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Brian Casey</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://tcfjr.com/blog/posts/first/</link>
-      <pubDate>Fri, 29 Nov 2024 16:04:24 -0600</pubDate>
-      <guid>https://tcfjr.com/blog/posts/first/</guid>
-      <description>&lt;p&gt;Hello.  Still in test.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Mon, 30 Jan 2023 02:03:32 -0600</lastBuildDate>
+    <atom:link href="https://tcfjr.com/blog/tags/monday-quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Add Life</title>
       <link>https://tcfjr.com/blog/posts/add-life/</link>
