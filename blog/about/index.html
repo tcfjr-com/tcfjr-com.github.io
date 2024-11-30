@@ -100,8 +100,11 @@
 
 		<section class="body">
 			<p>A site of my random ramblings.</p>
-<p>{{ $image := resources.Get &ldquo;images/bluesky-icon.png&rdquo; }}</p>
-<p><!-- raw HTML omitted --> Find me on <a href="https://bsky.app/profile/tcfjr.com" title="Bluesky link">Bluesky</a></p>
+<p>{{ $image := .Resources.GetMatch &ldquo;images/bluesky-icon.png&rdquo; }}
+{{ with $image }}
+<!-- raw HTML omitted -->
+{{ end }}</p>
+<p>Find me on <a href="https://bsky.app/profile/tcfjr.com" title="Bluesky link">Bluesky</a></p>
 
 		</section>
 

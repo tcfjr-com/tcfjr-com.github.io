@@ -14,7 +14,7 @@
       <link>https://tcfjr.com/blog/about/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://tcfjr.com/blog/about/</guid>
-      <description>&lt;p&gt;A site of my random ramblings.&lt;/p&gt;&#xA;&lt;p&gt;{{ $image := resources.Get &amp;ldquo;images/bluesky-icon.png&amp;rdquo; }}&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt; Find me on &lt;a href=&#34;https://bsky.app/profile/tcfjr.com&#34; title=&#34;Bluesky link&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A site of my random ramblings.&lt;/p&gt;&#xA;&lt;p&gt;{{ $image := .Resources.GetMatch &amp;ldquo;images/bluesky-icon.png&amp;rdquo; }}&#xA;{{ with $image }}&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;{{ end }}&lt;/p&gt;&#xA;&lt;p&gt;Find me on &lt;a href=&#34;https://bsky.app/profile/tcfjr.com&#34; title=&#34;Bluesky link&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>First</title>
