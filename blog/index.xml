@@ -10,6 +10,13 @@
     <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
     <atom:link href="https://tcfjr.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://tcfjr.com/blog/about/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://tcfjr.com/blog/about/</guid>
+      <description>&lt;p&gt;A site of my random ramblings.&lt;/p&gt;&#xA;&lt;p&gt;Find me on &lt;a href=&#34;https://bsky.app/profile/tcfjr.com&#34; title=&#34;Bluesky link&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>First</title>
       <link>https://tcfjr.com/blog/posts/first/</link>
       <pubDate>Fri, 29 Nov 2024 16:04:24 -0600</pubDate>
