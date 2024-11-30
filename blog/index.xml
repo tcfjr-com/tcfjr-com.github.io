@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TCFJR</title>
+    <link>https://tcfjr.com/</link>
+    <description>Recent content on TCFJR</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Brian Casey</copyright>
+    <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
+    <atom:link href="https://tcfjr.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tcfjr.com/about/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://tcfjr.com/about/</guid>
+      <description>&lt;p&gt;A site of my random ramblings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/blog/images/bluesky-icon.png&#34; alt=&#34;Bluesky icon&#34;&gt; Find me on &lt;a href=&#34;https://bsky.app/profile/tcfjr.com&#34; title=&#34;Bluesky link&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://tcfjr.com/posts/first/</link>
+      <pubDate>Fri, 29 Nov 2024 16:04:24 -0600</pubDate>
+      <guid>https://tcfjr.com/posts/first/</guid>
+      <description>&lt;p&gt;Hello.  Still in test.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Add Life</title>
+      <link>https://tcfjr.com/posts/add-life/</link>
+      <pubDate>Thu, 28 Nov 2024 02:03:32 -0600</pubDate>
+      <guid>https://tcfjr.com/posts/add-life/</guid>
+      <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”&#xA; - Anonymous&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

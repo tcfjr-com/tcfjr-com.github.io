@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on TCFJR</title>
+    <link>https://tcfjr.com/tags/</link>
+    <description>Recent content in Tags on TCFJR</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Brian Casey</copyright>
+    <lastBuildDate>Thu, 28 Nov 2024 02:03:32 -0600</lastBuildDate>
+    <atom:link href="https://tcfjr.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monday Quotes</title>
+      <link>https://tcfjr.com/tags/monday-quotes/</link>
+      <pubDate>Thu, 28 Nov 2024 02:03:32 -0600</pubDate>
+      <guid>https://tcfjr.com/tags/monday-quotes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
