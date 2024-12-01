@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TCFJR</title>
-    <link>https://tcfjr.com/blog/categories/</link>
+    <link>https://tcfjr.com/categories/</link>
     <description>Recent content in Categories on TCFJR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Brian Casey</copyright>
-    <atom:link href="https://tcfjr.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tcfjr.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

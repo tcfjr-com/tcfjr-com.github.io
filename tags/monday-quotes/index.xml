@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monday Quotes on TCFJR</title>
-    <link>https://tcfjr.com/blog/tags/monday-quotes/</link>
+    <link>https://tcfjr.com/tags/monday-quotes/</link>
     <description>Recent content in Monday Quotes on TCFJR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Brian Casey</copyright>
     <lastBuildDate>Thu, 28 Nov 2024 02:03:32 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/blog/tags/monday-quotes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tcfjr.com/tags/monday-quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Add Life</title>
-      <link>https://tcfjr.com/blog/posts/add-life/</link>
+      <link>https://tcfjr.com/posts/add-life/</link>
       <pubDate>Thu, 28 Nov 2024 02:03:32 -0600</pubDate>
-      <guid>https://tcfjr.com/blog/posts/add-life/</guid>
+      <guid>https://tcfjr.com/posts/add-life/</guid>
       <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”&#xA; - Anonymous&lt;/p&gt;</description>
     </item>
   </channel>

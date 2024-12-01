@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TCFJR</title>
-    <link>https://tcfjr.com/blog/</link>
+    <link>https://tcfjr.com/</link>
     <description>Recent content on TCFJR</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Brian Casey</copyright>
     <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tcfjr.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://tcfjr.com/blog/about/</link>
+      <link>https://tcfjr.com/about/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://tcfjr.com/blog/about/</guid>
-      <description>&lt;p&gt;A site of my random ramblings.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/blog/blog/images/bluesky-icon.png&#34; alt=&#34;Bluesky icon&#34;&gt; Find me on &lt;a href=&#34;https://bsky.app/profile/tcfjr.com&#34; title=&#34;Bluesky link&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://tcfjr.com/about/</guid>
+      <description>&lt;p&gt;A site of my random ramblings.  I&amp;rsquo;m a semi-retired 45-year veteran of the&#xA;engineering software trenches, with stints at the Jet Propulsion Lab,&#xA;a small appraisal research firm, and 35 years with MSC Software, one of the&#xA;leading providers of computer-aided engineering tools.&lt;/p&gt;&#xA;&lt;p&gt;I bought a new 2005 Yamaha FJR1300A in August, 2004, and used the handle&#xA;tcfjr on the FJR1300 forum. (I lived in a town called Temple City at the time.)&#xA;I still have that bike - now with 140,000 miles, and still running strong.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First</title>
-      <link>https://tcfjr.com/blog/posts/first/</link>
+      <link>https://tcfjr.com/posts/first/</link>
       <pubDate>Fri, 29 Nov 2024 16:04:24 -0600</pubDate>
-      <guid>https://tcfjr.com/blog/posts/first/</guid>
+      <guid>https://tcfjr.com/posts/first/</guid>
       <description>&lt;p&gt;Hello.  Still in test.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Add Life</title>
-      <link>https://tcfjr.com/blog/posts/add-life/</link>
+      <link>https://tcfjr.com/posts/add-life/</link>
       <pubDate>Thu, 28 Nov 2024 02:03:32 -0600</pubDate>
-      <guid>https://tcfjr.com/blog/posts/add-life/</guid>
+      <guid>https://tcfjr.com/posts/add-life/</guid>
       <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”&#xA; - Anonymous&lt;/p&gt;</description>
     </item>
   </channel>
