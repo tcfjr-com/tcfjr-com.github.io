@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Brian Casey</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 00:03:32 -0600</lastBuildDate>
     <atom:link href="https://tcfjr.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Harbor</title>
+      <link>https://tcfjr.com/posts/harbor/</link>
+      <pubDate>Sun, 01 Dec 2024 00:03:32 -0600</pubDate>
+      <guid>https://tcfjr.com/posts/harbor/</guid>
+      <description>&lt;p&gt;&amp;ldquo;A ship in harbor is safe, but that is not what ships are built for.&amp;rdquo;&#xA; - John A. Shedd&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/static/images/SAAM-1982.1.33_1.jpg&#34; alt=&#34;Ship - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First</title>
       <link>https://tcfjr.com/posts/first/</link>

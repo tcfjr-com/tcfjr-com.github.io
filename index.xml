@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Brian Casey</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 16:04:24 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 00:03:32 -0600</lastBuildDate>
     <atom:link href="https://tcfjr.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -15,6 +15,13 @@
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://tcfjr.com/about/</guid>
       <description>&lt;p&gt;A site of my random ramblings.  I&amp;rsquo;m a semi-retired 45-year veteran of the&#xA;engineering software trenches, with stints at the Jet Propulsion Lab,&#xA;a small appraisal research firm, and 35 years with MSC Software, one of the&#xA;leading providers of computer-aided engineering tools.&lt;/p&gt;&#xA;&lt;p&gt;I bought a new 2005 Yamaha FJR1300A in August, 2004, and used the handle&#xA;tcfjr on the FJR1300 forum. (I lived in a town called Temple City at the time.)&#xA;I still have that bike - now with 140,000 miles, and still running strong.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Harbor</title>
+      <link>https://tcfjr.com/posts/harbor/</link>
+      <pubDate>Sun, 01 Dec 2024 00:03:32 -0600</pubDate>
+      <guid>https://tcfjr.com/posts/harbor/</guid>
+      <description>&lt;p&gt;&amp;ldquo;A ship in harbor is safe, but that is not what ships are built for.&amp;rdquo;&#xA; - John A. Shedd&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/static/images/SAAM-1982.1.33_1.jpg&#34; alt=&#34;Ship - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>First</title>
