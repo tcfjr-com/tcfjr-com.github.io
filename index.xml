@@ -20,7 +20,12 @@
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;p&gt;A site of my random ramblings.  I&amp;rsquo;m a semi-retired 45-year veteran of the
+      <description>
+
+&lt;script src=&#34;https://kit.fontawesome.com/73dada724c.js&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;A site of my random ramblings.  I&amp;rsquo;m a semi-retired 45-year veteran of the
 engineering software trenches, with stints at the Jet Propulsion Lab,
 a small appraisal research firm, and 35 years with MSC Software, one of the
 leading providers of computer-aided engineering tools.&lt;/p&gt;
