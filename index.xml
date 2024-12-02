@@ -2,75 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TCFJR</title>
-    <link>https://tcfjr.com/</link>
-    <description>Recent content on TCFJR</description>
-    <generator>Hugo</generator>
+    <link>/</link>
+    <description>TCFJR</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Brian Casey</copyright>
+    
+
+    
     <lastBuildDate>Sun, 01 Dec 2024 16:15:25 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>About</title>
-      <link>https://tcfjr.com/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://tcfjr.com/about/</guid>
-      <description>&lt;p&gt;A site of my random ramblings.  I&amp;rsquo;m a semi-retired 45-year veteran of the&#xA;engineering software trenches, with stints at the Jet Propulsion Lab,&#xA;a small appraisal research firm, and 35 years with MSC Software, one of the&#xA;leading providers of computer-aided engineering tools.&lt;/p&gt;&#xA;&lt;p&gt;I bought a new 2005 Yamaha FJR1300A in August, 2004, and used the handle&#xA;tcfjr on the FJR1300 forum. (I lived in a town called Temple City at the time.)&#xA;I still have that bike - now with 140,000 miles, and still running strong.&lt;/p&gt;</description>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;A site of my random ramblings.  I&amp;rsquo;m a semi-retired 45-year veteran of the
+engineering software trenches, with stints at the Jet Propulsion Lab,
+a small appraisal research firm, and 35 years with MSC Software, one of the
+leading providers of computer-aided engineering tools.&lt;/p&gt;
+&lt;p&gt;I bought a new 2005 Yamaha FJR1300A in August, 2004, and used the handle
+tcfjr on the FJR1300 forum. (I lived in a town called Temple City at the time.)
+I still have that bike - now with 140,000 miles, and still running strong.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/blog/images/bluesky-icon.png&#34; alt=&#34;Bluesky icon&#34;&gt; Find me on &lt;a href=&#34;https://bsky.app/profile/tcfjr.com&#34; title=&#34;Bluesky link&#34;&gt;Bluesky&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Just Deserts</title>
-      <link>https://tcfjr.com/posts/just-deserts/</link>
+      <link>/posts/just-deserts/</link>
       <pubDate>Sun, 01 Dec 2024 16:15:25 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/just-deserts/</guid>
-      <description>&lt;p&gt;Many people believe the idiom for someone getting what they deserve is&#xA;&amp;ldquo;just desserts&amp;rdquo;, but in fact it&amp;rsquo;s &amp;ldquo;just deserts&amp;rdquo;.  It&amp;rsquo;s a now defunct&#xA;version of the word &amp;ldquo;deserts&amp;rdquo; meaning &amp;ldquo;that which one deserves&amp;rdquo; that&#xA;only survives today in that one idiom.  But is is pronounced just like&#xA;&amp;ldquo;desserts&amp;rdquo;.&lt;/p&gt;</description>
+      
+      <guid>/posts/just-deserts/</guid>
+      <description>&lt;p&gt;Many people believe the idiom for someone getting what they deserve is
+&amp;ldquo;just desserts&amp;rdquo;, but in fact it&amp;rsquo;s &amp;ldquo;just deserts&amp;rdquo;.  It&amp;rsquo;s a now defunct
+version of the word &amp;ldquo;deserts&amp;rdquo; meaning &amp;ldquo;that which one deserves&amp;rdquo; that
+only survives today in that one idiom.  But is is pronounced just like
+&amp;ldquo;desserts&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Harbor</title>
-      <link>https://tcfjr.com/posts/harbor/</link>
+      <link>/posts/harbor/</link>
       <pubDate>Sun, 01 Dec 2024 00:03:32 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/harbor/</guid>
-      <description>&lt;p&gt;&amp;ldquo;A ship in harbor is safe, but that is not what ships are built for.&amp;rdquo;&#xA; - John A. Shedd&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1982.1.33_1.jpg&#34; alt=&#34;Ship - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>/posts/harbor/</guid>
+      <description>&lt;p&gt;&amp;ldquo;A ship in harbor is safe, but that is not what ships are built for.&amp;rdquo;
+ - John A. Shedd&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1982.1.33_1.jpg&#34; alt=&#34;Ship - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>First</title>
-      <link>https://tcfjr.com/posts/first/</link>
+      <link>/posts/first/</link>
       <pubDate>Fri, 29 Nov 2024 16:04:24 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/first/</guid>
-      <description>&lt;p&gt;Hello.  Still in test.&lt;/p&gt;</description>
+      
+      <guid>/posts/first/</guid>
+      <description>&lt;p&gt;Hello.  Still in test.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Add Life</title>
-      <link>https://tcfjr.com/posts/add-life/</link>
+      <link>/posts/add-life/</link>
       <pubDate>Thu, 28 Nov 2024 02:03:32 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/add-life/</guid>
-      <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”&#xA; - Anonymous&lt;/p&gt;</description>
+      
+      <guid>/posts/add-life/</guid>
+      <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”
+ - Anonymous&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Game 5</title>
-      <link>https://tcfjr.com/posts/game-5/</link>
+      <link>/posts/game-5/</link>
       <pubDate>Wed, 30 Oct 2024 11:50:14 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/game-5/</guid>
-      <description>&lt;p&gt;As a long-time Dodger fan - I went to my first game at Dodger Stadium&#xA;back in 1965 - I was really happy to see them win game 5 today at&#xA;Yankee Stadium to close-out this year&amp;rsquo;s World Series.&lt;/p&gt;&#xA;&lt;p&gt;We can all agree that that fifth inning defensive display by the Yankees&#xA;was horrible, but their overall defense throughout the series was really&#xA;weak.  It&amp;rsquo;s hard to understand, but their coaching staff has to take the&#xA;brunt of the blame.&lt;/p&gt;</description>
+      
+      <guid>/posts/game-5/</guid>
+      <description>&lt;p&gt;As a long-time Dodger fan - I went to my first game at Dodger Stadium
+back in 1965 - I was really happy to see them win game 5 today at
+Yankee Stadium to close-out this year&amp;rsquo;s World Series.&lt;/p&gt;
+&lt;p&gt;We can all agree that that fifth inning defensive display by the Yankees
+was horrible, but their overall defense throughout the series was really
+weak.  It&amp;rsquo;s hard to understand, but their coaching staff has to take the
+brunt of the blame.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Red Flags</title>
-      <link>https://tcfjr.com/posts/red-flags/</link>
+      <link>/posts/red-flags/</link>
       <pubDate>Mon, 13 Feb 2023 15:41:59 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/red-flags/</guid>
-      <description>&lt;p&gt;&amp;ldquo;When you wear rose-colored glasses, all the red flags just look like flags&amp;rdquo;&lt;br&gt;&#xA; - Anonymous&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/NMAH-AHB2010q05600.jpg&#34; alt=&#34;Red Flag - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>/posts/red-flags/</guid>
+      <description>&lt;p&gt;&amp;ldquo;When you wear rose-colored glasses, all the red flags just look like flags&amp;rdquo;&lt;br&gt;
+ - Anonymous&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/NMAH-AHB2010q05600.jpg&#34; alt=&#34;Red Flag - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Peanut Butter and Pickle</title>
-      <link>https://tcfjr.com/posts/peanut-butter-and-pickle/</link>
+      <link>/posts/peanut-butter-and-pickle/</link>
       <pubDate>Fri, 20 Jan 2023 12:36:28 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/peanut-butter-and-pickle/</guid>
-      <description>An ode to one of my favorite sandwiches</description>
+      
+      <guid>/posts/peanut-butter-and-pickle/</guid>
+      <description>&lt;p&gt;Since I was a kid, I&amp;rsquo;ve always enjoyed peanut butter and pickle sandwiches.
+It&amp;rsquo;s a little weird, I guess.  You take two slices of bread, slab on some
+creamy peanut butter on both sides, lay some pickles on and close up the
+sandwich.  Then enjoy.&lt;/p&gt;
+&lt;p&gt;You can use either dill pickles or sweet pickles.  Each has their own flavor,
+but either one makes for a fantastic sandwich.&lt;/p&gt;
+&lt;p&gt;Elvis famously enjoyed peanut butter and banana sandwiches.  Maybe once I
+become famous the world will start to enjoy peanut butter and pickle.&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>The Tree Remembers</title>
-      <link>https://tcfjr.com/posts/the-tree-remembers/</link>
+      <link>/posts/the-tree-remembers/</link>
       <pubDate>Mon, 16 Jan 2023 21:28:24 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/the-tree-remembers/</guid>
-      <description>&lt;p&gt;&amp;ldquo;The ax forgets, but the tree remembers&amp;rdquo;&lt;br&gt;&#xA; - African proverb&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1966.5_2.jpg&#34; alt=&#34;Oak Tree - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>/posts/the-tree-remembers/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The ax forgets, but the tree remembers&amp;rdquo;&lt;br&gt;
+ - African proverb&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1966.5_2.jpg&#34; alt=&#34;Oak Tree - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

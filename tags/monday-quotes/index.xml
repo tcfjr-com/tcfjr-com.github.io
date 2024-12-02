@@ -2,40 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monday Quotes on TCFJR</title>
-    <link>https://tcfjr.com/tags/monday-quotes/</link>
-    <description>Recent content in Monday Quotes on TCFJR</description>
-    <generator>Hugo</generator>
+    <link>/tags/monday-quotes/</link>
+    <description>TCFJR (Monday Quotes)</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Brian Casey</copyright>
+    
+
+    
     <lastBuildDate>Sun, 01 Dec 2024 00:03:32 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/tags/monday-quotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <atom:link href="/tags/monday-quotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Harbor</title>
-      <link>https://tcfjr.com/posts/harbor/</link>
+      <link>/posts/harbor/</link>
       <pubDate>Sun, 01 Dec 2024 00:03:32 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/harbor/</guid>
-      <description>&lt;p&gt;&amp;ldquo;A ship in harbor is safe, but that is not what ships are built for.&amp;rdquo;&#xA; - John A. Shedd&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1982.1.33_1.jpg&#34; alt=&#34;Ship - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>/posts/harbor/</guid>
+      <description>&lt;p&gt;&amp;ldquo;A ship in harbor is safe, but that is not what ships are built for.&amp;rdquo;
+ - John A. Shedd&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1982.1.33_1.jpg&#34; alt=&#34;Ship - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Add Life</title>
-      <link>https://tcfjr.com/posts/add-life/</link>
+      <link>/posts/add-life/</link>
       <pubDate>Thu, 28 Nov 2024 02:03:32 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/add-life/</guid>
-      <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”&#xA; - Anonymous&lt;/p&gt;</description>
+      
+      <guid>/posts/add-life/</guid>
+      <description>&lt;p&gt;“I don’t ride a bike to add days to my life. I ride a bike to add life to my days.”
+ - Anonymous&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>Red Flags</title>
-      <link>https://tcfjr.com/posts/red-flags/</link>
+      <link>/posts/red-flags/</link>
       <pubDate>Mon, 13 Feb 2023 15:41:59 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/red-flags/</guid>
-      <description>&lt;p&gt;&amp;ldquo;When you wear rose-colored glasses, all the red flags just look like flags&amp;rdquo;&lt;br&gt;&#xA; - Anonymous&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/NMAH-AHB2010q05600.jpg&#34; alt=&#34;Red Flag - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>/posts/red-flags/</guid>
+      <description>&lt;p&gt;&amp;ldquo;When you wear rose-colored glasses, all the red flags just look like flags&amp;rdquo;&lt;br&gt;
+ - Anonymous&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/NMAH-AHB2010q05600.jpg&#34; alt=&#34;Red Flag - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
     <item>
       <title>The Tree Remembers</title>
-      <link>https://tcfjr.com/posts/the-tree-remembers/</link>
+      <link>/posts/the-tree-remembers/</link>
       <pubDate>Mon, 16 Jan 2023 21:28:24 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/the-tree-remembers/</guid>
-      <description>&lt;p&gt;&amp;ldquo;The ax forgets, but the tree remembers&amp;rdquo;&lt;br&gt;&#xA; - African proverb&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1966.5_2.jpg&#34; alt=&#34;Oak Tree - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;</description>
+      
+      <guid>/posts/the-tree-remembers/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The ax forgets, but the tree remembers&amp;rdquo;&lt;br&gt;
+ - African proverb&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tcfjr.com/images/SAAM-1966.5_2.jpg&#34; alt=&#34;Oak Tree - Smithsonian American Art Museum, CC0&#34;&gt;&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>

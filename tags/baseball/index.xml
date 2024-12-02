@@ -2,19 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Baseball on TCFJR</title>
-    <link>https://tcfjr.com/tags/baseball/</link>
-    <description>Recent content in Baseball on TCFJR</description>
-    <generator>Hugo</generator>
+    <link>/tags/baseball/</link>
+    <description>TCFJR (Baseball)</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Brian Casey</copyright>
+    
+
+    
     <lastBuildDate>Wed, 30 Oct 2024 11:50:14 -0600</lastBuildDate>
-    <atom:link href="https://tcfjr.com/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    
+    <atom:link href="/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Game 5</title>
-      <link>https://tcfjr.com/posts/game-5/</link>
+      <link>/posts/game-5/</link>
       <pubDate>Wed, 30 Oct 2024 11:50:14 -0600</pubDate>
-      <guid>https://tcfjr.com/posts/game-5/</guid>
-      <description>&lt;p&gt;As a long-time Dodger fan - I went to my first game at Dodger Stadium&#xA;back in 1965 - I was really happy to see them win game 5 today at&#xA;Yankee Stadium to close-out this year&amp;rsquo;s World Series.&lt;/p&gt;&#xA;&lt;p&gt;We can all agree that that fifth inning defensive display by the Yankees&#xA;was horrible, but their overall defense throughout the series was really&#xA;weak.  It&amp;rsquo;s hard to understand, but their coaching staff has to take the&#xA;brunt of the blame.&lt;/p&gt;</description>
+      
+      <guid>/posts/game-5/</guid>
+      <description>&lt;p&gt;As a long-time Dodger fan - I went to my first game at Dodger Stadium
+back in 1965 - I was really happy to see them win game 5 today at
+Yankee Stadium to close-out this year&amp;rsquo;s World Series.&lt;/p&gt;
+&lt;p&gt;We can all agree that that fifth inning defensive display by the Yankees
+was horrible, but their overall defense throughout the series was really
+weak.  It&amp;rsquo;s hard to understand, but their coaching staff has to take the
+brunt of the blame.&lt;/p&gt;
+</description>
     </item>
+    
   </channel>
 </rss>
