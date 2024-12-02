@@ -9,10 +9,20 @@
     
 
     
-    <lastBuildDate>Sun, 01 Dec 2024 16:15:25 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 10:22:25 -0600</lastBuildDate>
     
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Delight</title>
+      <link>/posts/delight/</link>
+      <pubDate>Mon, 02 Dec 2024 10:22:25 -0600</pubDate>
+      
+      <guid>/posts/delight/</guid>
+      <description>&lt;p&gt;“The true delight is in the finding out, rather than in the knowing.” — Isaac Asimov&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Just Deserts</title>
