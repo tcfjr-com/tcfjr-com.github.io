@@ -1,4 +1,0 @@
----
-title: Sections
-description: Sections
----
